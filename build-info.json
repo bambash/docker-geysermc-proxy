@@ -1,21 +1,21 @@
 {
-  "name": "Build null with GeyserMC build 1189",
+  "name": "Build null with GeyserMC build 1193",
   "version": "null",
   "tags": [
-    "/geysermc-proxy:null-1189",
+    "/geysermc-proxy:null-1193",
     "/geysermc-proxy:null",
-    "/geysermc-proxy:1189",
+    "/geysermc-proxy:1193",
     "/geysermc-proxy:latest"
   ],
   "geyser": {
     "version": "2.11.0",
-    "build": 1189,
-    "head_sha": "98824129b114e00e2499660107306ff79904baff",
-    "time": "2026-07-10T19:24:25.572Z",
+    "build": 1193,
+    "head_sha": "c813ca41a4d682ae2c0823fdd2f09ed7aba0d1a3",
+    "time": "2026-07-12T01:04:00.274Z",
     "artifact": {
       "name": "Geyser-Standalone.jar",
-      "url": "https://download.geysermc.org/v2/projects/geyser/versions/2.11.0/builds/1189/downloads/standalone",
-      "sha256": "ab23ca92b4fe64240489c71e189c6565405d1322d61b92d48f781718dcfec5f3"
+      "url": "https://download.geysermc.org/v2/projects/geyser/versions/2.11.0/builds/1193/downloads/standalone",
+      "sha256": "b48a0a2de770d1ea71cced559fde10ecbfecf046f0babb0e8d3c9aaafaa054ef"
     }
   }
 }
